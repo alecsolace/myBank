@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/MyBank.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/MyBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/MyBank.csproj",
+        "projectName": "MyBank",
+        "projectPath": "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/MyBank.csproj",
+        "packagesPath": "/Users/alexanderaguirre/.nuget/packages/",
+        "outputPath": "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderaguirre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.45.0, )"
+            },
+            "Terminal.Gui": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.29, 3.1.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

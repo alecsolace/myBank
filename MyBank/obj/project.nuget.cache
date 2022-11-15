@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTsrJiypWdG6oK328ozJutvDJTm18HrIGu3jDYrvX7U18FWqQ9Gg5DRZ565wcqxA7jo/qmn1r3/BWGNvp+m8Dg==",
+  "success": true,
+  "projectFilePath": "/Users/alexanderaguirre/Developer/2DAW/EntornoServidor/Projects/MyBank/MyBank/MyBank.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexanderaguirre/.nuget/packages/nstack.core/1.0.3/nstack.core.1.0.3.nupkg.sha512",
+    "/Users/alexanderaguirre/.nuget/packages/spectre.console/0.45.0/spectre.console.0.45.0.nupkg.sha512",
+    "/Users/alexanderaguirre/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/alexanderaguirre/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/alexanderaguirre/.nuget/packages/terminal.gui/1.8.2/terminal.gui.1.8.2.nupkg.sha512",
+    "/Users/alexanderaguirre/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

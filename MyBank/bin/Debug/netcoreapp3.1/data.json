@@ -1,0 +1,26 @@
+[
+  {
+    "Number": "1",
+    "Owner": "Alexander",
+    "Balance": 1000,
+    "allTransactions": [
+      {
+        "Amount": 1000,
+        "Date": "2022-11-08T20:52:02.472121+01:00",
+        "Notes": "Initial deposit"
+      }
+    ]
+  },
+  {
+    "Number": "1",
+    "Owner": "Ruben",
+    "Balance": 2999,
+    "allTransactions": [
+      {
+        "Amount": 2999,
+        "Date": "2022-11-08T23:23:25.259819+01:00",
+        "Notes": "Initial deposit"
+      }
+    ]
+  }
+]
